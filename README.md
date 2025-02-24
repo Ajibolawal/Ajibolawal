@@ -12,37 +12,15 @@ I aim to **advance my cybersecurity career** by building and automating secure I
 
 ---
 
-## 🔧 Key Skills
+## 🔧 Key Skills  
 
 | **Skill**                                        | **Project**                                                   |
 |--------------------------------------------------|---------------------------------------------------------------|
-| **SIEM Implementation & Log Analysis**            | [Active Directory](https://github.com/Ajibolawal/Active-Directory-Home-Lab/blob/main/README.md)   |
-| **Network Traffic Monitoring & Threat Detection** | [Active Directory](https://github.com/Ajibolawal/Active-Directory-Home-Lab/blob/main/README.md)   |
-| **Security Automation with Shuffle SOAR**         | SOC Automation Lab                                            |
-| **Incident Response & Case Management**           | SOC Automation Lab                                            |
-| **Scripting for Threat Mitigation**               | SOC Automation Lab                                            |
-
----
-
-## 🛠️ Tools & Technologies
-
-### 🔌 **Network Security**
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
-
-### 💻 **Endpoint Security**
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-</div>
-
-### 📊 **SIEM Solutions**
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-</div>
+| **SIEM Implementation & Log Analysis**          | [Active Directory Home Lab](https://github.com/Ajibolawal/Active-Directory-Home-Lab/blob/main/README.md)   |
+| **Active Directory Security & Monitoring**       | [Active Directory Home Lab](https://github.com/Ajibolawal/Active-Directory-Home-Lab/blob/main/README.md)   |
+| **Threat Hunting & Detection**                   | [Cloud Honeypot SOC](https://github.com/Ajibolawal/Cloud-Honeypot-SOC)   |
+| **Incident Response & Forensic Analysis**        | [Cloud Honeypot SOC](https://github.com/Ajibolawal/Cloud-Honeypot-SOC)   |
+| **Network Traffic Analysis & Threat Intelligence** | [Cloud Honeypot SOC](https://github.com/Ajibolawal/Cloud-Honeypot-SOC)   |
 
 ---
 
@@ -61,7 +39,7 @@ I'm continually expanding my knowledge and skills. Here are some certifications 
 ## 🔑 Featured Projects
 
 - [🔒 Active Directory Home Lab](https://github.com/Ajibolawal/Active-Directory-Home-Lab/blob/main/README.md)
-- [⚙️ SOC Automation Project](#)
+- [🛡️ Cloud Honeypot SOC](https://github.com/Ajibolawal/Cloud-Honeypot-SOC)
 
 ---
 
