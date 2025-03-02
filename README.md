@@ -42,9 +42,9 @@ I'm continually expanding my knowledge and skills. Here are some certifications 
 
 ## 🔑 Featured Projects
 
-- [🔒 Active Directory Home Lab](https://github.com/Ajibolawal/Active-Directory-Home-Lab)
-- [🛡️ Cloud Honeypot SOC](https://github.com/Ajibolawal/Cloud-Honeypot-SOC)
-- [🧩 Password Generator](https://github.com/Ajibolawal/Password-Generator)
+  - [🔒 Active Directory Home Lab](https://github.com/Ajibolawal/Active-Directory-Home-Lab)
+  - [🛡️ Cloud Honeypot SOC](https://github.com/Ajibolawal/Cloud-Honeypot-SOC)
+  - [🧩 Password Generator](https://github.com/Ajibolawal/Password-Generator)
 
 ---
 
