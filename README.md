@@ -16,14 +16,16 @@ I aim to **advance my cybersecurity career** by building and automating secure I
 
 | **Skill**                                        | **Project**                                                   |
 |--------------------------------------------------|---------------------------------------------------------------|
-| 🖥️ **SIEM Implementation & Log Analysis**        | [Active Directory Home Lab](https://github.com/Ajibolawal/Active-Directory-Home-Lab/blob/main/README.md)   |
-| 🔐 **Active Directory Security & Monitoring**     | [Active Directory Home Lab](https://github.com/Ajibolawal/Active-Directory-Home-Lab/blob/main/README.md)   |
+| 🖥️ **SIEM Implementation & Log Analysis**        | [Active Directory Home Lab](https://github.com/Ajibolawal/Active-Directory-Home-Lab)   |
+| 🔐 **Active Directory Security & Monitoring**     | [Active Directory Home Lab](https://github.com/Ajibolawal/Active-Directory-Home-Lab)   |
 | 🎯 **Threat Hunting & Detection**                 | [Cloud Honeypot SOC](https://github.com/Ajibolawal/Cloud-Honeypot-SOC)   |
 | 🚨 **Incident Response & Forensic Analysis**      | [Cloud Honeypot SOC](https://github.com/Ajibolawal/Cloud-Honeypot-SOC)   |
 | 🌍 **Network Traffic Analysis & Threat Intelligence** | [Cloud Honeypot SOC](https://github.com/Ajibolawal/Cloud-Honeypot-SOC)   |
+| ⚡ **SOAR & EDR Automation**                      | [Automating Threat Detection & Response with SOAR & EDR](https://github.com/Ajibolawal/SOAR-EDR/)   |
 | 🛡️ **Secure Password Generation & Automation**    | [Password Generator](https://github.com/Ajibolawal/Password-Generator)   |
 | 🐍 **Python Scripting & Automation**              | [Password Generator](https://github.com/Ajibolawal/Password-Generator)   |
 | 🔑 **Cryptographic Security Practices**           | [Password Generator](https://github.com/Ajibolawal/Password-Generator)   |
+
 
 
 ---
@@ -45,6 +47,7 @@ I'm continually expanding my knowledge and skills. Here are some certifications 
   - [🔒 Active Directory Home Lab](https://github.com/Ajibolawal/Active-Directory-Home-Lab)
   - [🛡️ Cloud Honeypot SOC](https://github.com/Ajibolawal/Cloud-Honeypot-SOC)
   - [🧩 Password Generator](https://github.com/Ajibolawal/Password-Generator)
+  - [🔥 Automating Threat Detection & Response with SOAR & EDR](https://github.com/Ajibolawal/SOAR-EDR/)
 
 ---
 
